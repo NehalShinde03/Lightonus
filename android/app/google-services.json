@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "673032687117",
+    "project_id": "lightonus-f69aa",
+    "storage_bucket": "lightonus-f69aa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:673032687117:android:7ef7317234884ffdd48f44",
+        "android_client_info": {
+          "package_name": "com.example.lightonus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "673032687117-0c9rv25eh4njfq90mha3ujq62fktgsjp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfZj4jxiAtqtw1Tlfrd5Ps8I-bltqCnSg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "673032687117-0c9rv25eh4njfq90mha3ujq62fktgsjp.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "673032687117-8ogvdhph6gjaalnqlj6elkc8gm2d4bpv.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.lightonus"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
